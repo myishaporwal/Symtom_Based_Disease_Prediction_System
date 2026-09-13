@@ -1,0 +1,55 @@
+Module Requirements for Running the Disease Prediction System
+
+To successfully run the provided Python script for the Symptom-Based Disease Prediction System, the following modules and configurations are required:
+
+1. System and Built-in Modules
+
+sys
+
+os
+
+2. Database Connectivity
+
+mysql-connector-python
+
+3. Machine Learning and Data Processing
+
+joblib
+
+numpy
+
+scikit-learn
+
+4. Natural Language Processing (NLP)
+
+nltk
+
+gensim
+
+5. Graphical User Interface (GUI)
+
+PyQt5
+
+6. Speech Recognition
+
+SpeechRecognition
+
+7. Data Visualization
+
+matplotlib
+
+8. Additional Requirements
+
+Database Configuration
+
+Pretrained Models
+
+Microphone Access
+
+CSV Files for Database Tables:
+
+user_search_history.csv: Contains search history data.
+
+user.csv: Contains user information.
+
+disease_info.csv: Contains disease details, symptoms, medications, and cures.
