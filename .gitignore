@@ -1,0 +1,27 @@
+# Excluded Video & Report Deliverables
+*.mp4
+Demo Video.mp4
+*.pdf
+*.docx
+*.pptx
+*.zip
+Project Exhibition 1 Submission.zip
+
+# Python Byte-compiled / cache / virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+
+# Test & Debug Scratch Scripts
+analyze_repo.py
+deep_inspect.py
+fast_bench.py
+scratch/
+
+# IDE & System Files
+.vscode/
+.idea/
+*.swp
+*.ds_store
+Thumbs.db
